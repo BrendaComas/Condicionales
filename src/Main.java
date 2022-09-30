@@ -26,6 +26,7 @@ public class Main {
         for (int numeroFor = 0; numeroFor <= 3; numeroFor = numeroFor + 1){
             System.out.println(numeroFor);
         }
+        //Bucle Switch
         var Estación = "INVIERNO";
         switch (Estación){
             case "VERANO":
